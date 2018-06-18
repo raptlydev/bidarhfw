@@ -1,0 +1,101 @@
+#carouselExampleIndicators {
+  width: 50%;
+}
+body {
+  overflow-x: hidden;
+  text-align: -webkit-center;
+}
+
+body {
+  background: url('file:///Users/Arpit/Desktop/SITE/assets/img/bidarFort.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.root {
+  max-width: 1366px !important;
+  text-align: center;
+  position: relative;
+}
+.inline {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.carousel-container {
+  text-align: center;
+}
+
+.zone7block {
+  color: red;
+  background: blanchedalmond !important;
+}
+
+.inner-container {
+padding-top: 127px;
+}
+.background-carousel {
+  position: absolute;
+}
+
+.link-list {
+  width:25%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.zone27block {
+  width:300px;
+  border-radius: 4px;
+  box-shadow: 0 5px 16px;
+  min-height: 450px;
+}
+.footerrow18block {
+  padding-top: 40px !important;
+}
+
+.footer {
+  background-color: #adadad;
+}
+.navbar {
+  background-color: brown !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.background-carousel {
+  right: 0;
+left: 0;
+}
+
+.background-carousel img {
+  width:100%;
+  max-height: 512px;
+}
+.top-logo img {
+      width: 100%;
+}
+.row {
+  margin-left: 0px;
+}
+
+.foreground {
+    background: white;
+    opacity: 0.9;
+}
+
+.zone27block h3 {
+  font-size: 1.25rem;
+    margin-right: 40px;
+    height: 72px;
+}
+
+.zone27block p {
+    margin: 30px 5px !important;
+    text-align: justify !important;
+    font-size: 12px !important;
+}
