@@ -186,3 +186,8 @@ img.arrow {
 .align-left a {
   text-align: left !important;
 }
+
+a.list-group-item.active {
+  border-radius: 0;
+  background-color: #005ecc;
+}
