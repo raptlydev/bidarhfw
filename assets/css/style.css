@@ -127,8 +127,7 @@ li.nav-item {
 
 .list-group {
   padding: 0;
-  border: 1px solid blue;
-  border-radius: 6px;
+  border: 1px solid #005ecc;
 }
 
 .biometric {
