@@ -191,3 +191,7 @@ a.list-group-item.active {
   border-radius: 0;
   background-color: #005ecc;
 }
+
+a.list-group-item .ms-rteThemeForeColor-1-0 {
+  background-color: transparent;
+}
