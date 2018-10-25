@@ -238,14 +238,14 @@ a.list-group-item .ms-rteThemeForeColor-1-0 {
   background-color: #4abc5c;
 }
 
+.zone27block {
+    margin: 0 auto;
+  }
+
 /* styles for mobile 320px to 768px */
 @media only screen and (max-width: 767px) {
     .link-list {
         width:90%;
       margin: 0 15px;
-    }
-  .zone27block {
-    margin: 0 auto;
-  }
-    
+    }    
 }
