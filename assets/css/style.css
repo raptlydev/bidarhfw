@@ -194,7 +194,16 @@ img.arrow {
 
 .list-group a.list-group-item.active {
   border-radius: 0;
-  background-color: #4abc5c;
+  background-color: #20c997;
+}
+
+.list-group{
+  border-color: #20c997;
+}
+
+.list-group a {
+  color: #20c997;
+  border-color: #20c997;
 }
 
 a.list-group-item .ms-rteThemeForeColor-1-0 {
