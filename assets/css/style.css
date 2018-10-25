@@ -253,7 +253,10 @@ a.list-group-item.active.group4 {
 /* styles for mobile 320px to 768px */
 @media only screen and (max-width: 767px) {
     .link-list {
-        width:90%;
+      width:90%;
       margin: 0 15px;
     }    
+  li.nav-item {
+    width: 100%;
+  }
 }
