@@ -222,19 +222,19 @@ a.list-group-item .ms-rteThemeForeColor-1-0 {
   padding: 0
 }
 
-.list-group-item.group1 {
+a.list-group-item.active.group1 {
   background-color: #e04950;
 }
 
-.list-group-item.group2 {
+a.list-group-item.active.group2 {
   background-color: #ff7519;
 }
 
-.list-group-item.group3 {
+a.list-group-item.active.group3 {
   background-color: #2f6aa0;
 }
 
-.list-group-item.group4 {
+a.list-group-item.active.group4 {
   background-color: #4abc5c;
 }
 
