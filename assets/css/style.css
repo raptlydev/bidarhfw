@@ -65,7 +65,7 @@ body {
 }
 .navbar {
   background-color: #cc4d4d !important;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 .nav-link {
@@ -195,6 +195,7 @@ img.arrow {
 .list-group a.list-group-item.active {
   border-radius: 0;
   background-color: #20c997;
+  border-color: #20c997;
 }
 
 .list-group{
@@ -204,6 +205,9 @@ img.arrow {
 .list-group a {
   color: #20c997;
   border-color: #20c997;
+}
+.carousel-indicators .active {
+  background-color: #20c997;
 }
 
 a.list-group-item .ms-rteThemeForeColor-1-0 {
