@@ -154,7 +154,7 @@ li.nav-item {
 }
 
 .Biom h6 {
-  height: 35px;
+  height: 26px;
   background: #007bff;
   margin: 0;
 }
@@ -171,6 +171,8 @@ li.nav-item {
 
 .Biom h6 {
   line-height: 26px;
+  padding:12px 20px
+    
 }
 
 .digit {
@@ -226,4 +228,8 @@ a.list-group-item .ms-rteThemeForeColor-1-0 {
         width:90%;
       margin: 0 15px;
     }
+  .zone27block {
+    margin: 0 auto;
+  }
+    
 }
