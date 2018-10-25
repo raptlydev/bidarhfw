@@ -1,3 +1,5 @@
+/* entire dirty css has to be re-written - mahesh */
+
 body {
   overflow-x: hidden;
   text-align: -webkit-center;
@@ -212,6 +214,10 @@ img.arrow {
 
 a.list-group-item .ms-rteThemeForeColor-1-0 {
   background-color: transparent; 
+}
+
+.col-sm-3 {
+  padding: 0
 }
 
 /* styles for mobile 320px to 768px */
