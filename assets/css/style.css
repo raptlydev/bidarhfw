@@ -199,11 +199,11 @@ img.arrow {
 .list-group a.list-group-item.active {
   border-radius: 0;
   background-color: #20c997;
-  border-color: #20c997;
+  border-color: #ccc;
 }
 
 .list-group{
-  border-color: #20c997;
+  border-color: #ccc;
 }
 
 .list-group a {
