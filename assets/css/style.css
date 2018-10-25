@@ -16,6 +16,10 @@ body {
   background-size: cover;
 }
 
+.top-logo{
+  padding: 20px 0;
+}
+
 .root {
   max-width: 1420px !important;
   text-align: center;
@@ -201,6 +205,9 @@ img.arrow {
   border-radius: 0;
   background-color: #20c997;
   border-color: #ccc;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
 }
 
 .list-group{
