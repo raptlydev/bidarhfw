@@ -26,6 +26,10 @@ body {
 
 .carousel-container {
   text-align: center;
+  border: 1px solid #cccccc;
+}
+.carousel-indicators .active{
+  backgroound-color: #df4950;
 }
 
 .zone7block {
@@ -61,6 +65,7 @@ body {
 }
 .navbar {
   background-color: #cc4d4d !important;
+  margin-bottom: 15px;
 }
 
 .nav-link {
@@ -127,7 +132,7 @@ li.nav-item {
 
 .list-group {
   padding: 0;
-  border: 1px solid #005ecc;
+  border: 1px solid #4abc5c;
 }
 
 .biometric {
@@ -189,7 +194,7 @@ img.arrow {
 
 a.list-group-item.active {
   border-radius: 0;
-  background-color: #005ecc;
+  background-color: #4abc5c;
 }
 
 a.list-group-item .ms-rteThemeForeColor-1-0 {
