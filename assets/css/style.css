@@ -21,7 +21,6 @@ body {
 }
 
 .root {
-  max-width: 1420px !important;
   text-align: center;
   position: relative;
   margin: 0 auto;
@@ -71,7 +70,7 @@ body {
   background-color: #adadad;
 }
 .navbar {
-  background-color: #e04950 !important;
+  background-color: #1e7ea5 !important;
   margin-bottom: 25px;
 }
 
@@ -259,4 +258,12 @@ a.list-group-item.active.group4 {
   li.nav-item {
     width: 100%;
   }
+}
+
+.container-fluid.bword {
+  display: table;
+  content: " ";
+}
+.text-red {
+  color: red;
 }
