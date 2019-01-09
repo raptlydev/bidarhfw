@@ -59,7 +59,7 @@ body {
   border: 1px solid #cccccc;
 }
 .carousel-indicators .active{
-  backgroound-color: #df4950;
+  background-color: #df4950;
 }
 
 .zone7block {
@@ -124,7 +124,6 @@ a.nav-link:hover {
 
 .foreground {
   background: white;
-  opacity: 0.9;
 }
 
 .zone27block h3 {
@@ -179,8 +178,9 @@ li.nav-item {
 
 .ms-rteThemeForeColor-1-0 {
   background: #007bff;
-  color: white;
+  color: #0B4B46;
   height: 35px;
+  font-size: 20px;
 }
 
 .Biom h6 {
@@ -227,7 +227,7 @@ img.arrow {
 
 .list-group a.list-group-item.active {
   border-radius: 0;
-  background-color: #20c997;
+  background-color: white;
   border-color: #ccc;
   
 }
