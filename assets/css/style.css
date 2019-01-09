@@ -163,7 +163,6 @@ li.nav-item {
 
 .list-group {
   padding: 0;
-  border: 1px solid #4abc5c;
 }
 
 .biometric {
@@ -180,7 +179,7 @@ li.nav-item {
   background: #007bff;
   color: #0B4B46;
   height: 35px;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .Biom h6 {
@@ -226,10 +225,8 @@ img.arrow {
 }
 
 .list-group a.list-group-item.active {
-  border-radius: 0;
   background-color: white;
-  border-color: #ccc;
-  
+  border:0;
 }
 
 .list-group{
@@ -237,8 +234,7 @@ img.arrow {
 }
 
 .list-group a {
-  color: #20c997;
-  border-color: #20c997;
+  color: #00008B;
 }
 .carousel-indicators .active {
   background-color: #20c997;
@@ -296,3 +292,8 @@ a.list-group-item.active.group4 {
 .plus{font-size:13px;}
 .minus{font-size:9px;}
 .decreaseFont,.increaseFont{cursor:pointer}
+
+.d-block {
+  height: 500px;
+  width: 100%;
+}
