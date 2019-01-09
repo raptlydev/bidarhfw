@@ -8,12 +8,36 @@ body {
 }
 
 body {
-  background: url("file:///Users/Arpit/Desktop/SITE/assets/img/bidarFort.jpg")
-    no-repeat center center fixed;
+  /* background: url("../img/bidarFort.jpg")
+    no-repeat center center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+*:after {
+  clear: both;
+}
+
+.header {
+  background: #deddde url(https://gokdom.kar.nic.in/images/bg.jpg) repeat-x;
+}
+
+.header > * {
+  color: white;
 }
 
 .top-logo{
@@ -95,6 +119,7 @@ a.nav-link:hover {
 }
 .row {
   margin-left: 0px;
+  margin-right: 0px;
 }
 
 .foreground {
@@ -267,3 +292,7 @@ a.list-group-item.active.group4 {
 .text-red {
   color: red;
 }
+
+.plus{font-size:13px;}
+.minus{font-size:9px;}
+.decreaseFont,.increaseFont{cursor:pointer}
