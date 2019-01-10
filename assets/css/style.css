@@ -278,6 +278,12 @@ a.list-group-item.active.group4 {
   width: 10%;
 }
 
+.navbar-nav li.nav-item a.nav-link{
+  font-family: 'Open sans' , sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
 /* styles for mobile 320px to 768px */
 @media only screen and (max-width: 767px) {
     .link-list {
