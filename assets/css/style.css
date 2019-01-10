@@ -96,6 +96,7 @@ body {
 .navbar {
   background-color: #03a9f4 !important;
   margin-bottom: 25px;
+  padding: 0 10px;
 }
 
 .nav-link {
