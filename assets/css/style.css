@@ -296,6 +296,19 @@ a.list-group-item.active.group4 {
   font-size: 14px;
 }
 
+.footer {
+  background-color: #0773b7;
+    color: #fff;
+    font-size: 12px;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.raptly-footer {
+  color: #000;
+}
 
 /* styles for mobile 320px to 768px */
 @media only screen and (max-width: 767px) {
