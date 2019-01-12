@@ -298,6 +298,12 @@ a.list-group-item.active.group4 {
   text-align: left;
 }
 
+.main-heading {
+  text-align: left; 
+  font-size: 27px;
+  padding: 12px 0;
+}
+
 .navbar-nav .dropdown-item {
   font-size: 14px;
 }
