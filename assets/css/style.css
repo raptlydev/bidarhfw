@@ -292,6 +292,12 @@ a.list-group-item.active.group4 {
     font-size: 14px;
 }
 
+.content-para {
+  font-size: 14px;
+  color: #000;
+  text-align: left;
+}
+
 .navbar-nav .dropdown-item {
   font-size: 14px;
 }
