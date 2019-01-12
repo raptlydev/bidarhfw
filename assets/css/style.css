@@ -281,7 +281,7 @@ a.list-group-item.active.group4 {
 .navbar-nav li.nav-item:hover {
   background-color: #0d7283;
 }
-.navbar-nav li.nav-item:active {
+.navbar-nav li.nav-item:active, .navbar-nav li.nav-item.active  {
   background-color: #080808;
   color: #fff;
 }
