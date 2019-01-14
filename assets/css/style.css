@@ -301,9 +301,16 @@ a.list-group-item.active.group4 {
 
 .main-heading {
   text-align: left; 
-  font-size: 27px;
+  font-size: 20px;
   margin: 0 10px;
   padding: 12px 0;
+}
+.ms-rteThemeForeColor-1-0{
+  font-size: 16px;
+}
+
+a.list-group-item {
+  font-size: 14px;
 }
 
 .navbar-nav .dropdown-item {
