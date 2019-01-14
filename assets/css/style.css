@@ -297,6 +297,7 @@ a.list-group-item.active.group4 {
   color: #000;
   text-align: left;
   margin: 0 10px;
+  padding: 10px 0;
 }
 
 .main-heading {
