@@ -303,7 +303,8 @@ a.list-group-item.active.group4 {
   text-align: left; 
   font-size: 20px;
   margin: 0 10px;
-  padding: 12px 0;
+  padding: 12px 0 30px;
+  border-bottom: 1px solid #e5e5e5;
 }
 .ms-rteThemeForeColor-1-0{
   font-size: 16px;
