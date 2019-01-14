@@ -309,7 +309,7 @@ a.list-group-item.active.group4 {
   font-size: 16px;
 }
 
-a.list-group-item {
+list-link.list-group a{
   font-size: 14px;
 }
 
